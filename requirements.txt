@@ -2,3 +2,5 @@ aiohttp
 appdirs
 infoauth
 tweepy
+flask
+pyTelegramBotAPI
